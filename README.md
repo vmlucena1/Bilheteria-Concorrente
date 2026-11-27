@@ -1,6 +1,6 @@
 # Bilheteria concorrente
 
-> **Vídeo:** 
+> **Vídeo:** https://youtu.be/ZCk1jzoiHzY?is=EYu6H3Bzu_jznChR
 
 Projeto final de Paradigmas de Linguagens de Programação. Enunciado completo no Blackboard.
 
@@ -37,7 +37,7 @@ curl -X POST localhost:3000/reservas -H 'Content-Type: application/json' \
 ---
 
 
-**Link do vídeo:** _PENDENTE (o mesmo link do topo deste arquivo)._
+**Link do vídeo:** https://youtu.be/ZCk1jzoiHzY?is=EYu6H3Bzu_jznChR
 
 ### Integrantes
 
